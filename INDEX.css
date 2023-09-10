@@ -1,0 +1,59 @@
+body{
+    background-image: url('https://media.istockphoto.com/id/1355428974/vector/sugar-bones-for-dogs-sample.jpg?s=612x612&w=0&k=20&c=IR6YNyRN-A9R48Gt-vIuGAiSfywVjlfouJNsGmDAccQ=');
+    background-color: rgba(61, 0, 141, 255); /* Using rgba with an alpha value for transparency */
+    background-blend-mode: multiply;
+}
+
+
+.main{
+    margin-left: 400px;
+    margin-right: 400px;
+    box-shadow: 0 0 120px pink;
+    border: solid black 4px;
+    
+}
+a{
+    margin-bottom: 8px;
+}
+
+.card-title{
+    font-size: 50px !important;
+    font-weight: 900;
+}
+
+.card-text{
+    font-size: 30px !important;
+    font-weight: 700;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 35px;
+    font-size: 80px;
+    margin-top: 35px;
+    text-shadow:  0 0 25px pink;
+    
+}
+
+.card-header{
+    border: black solid 5px;
+    font-size: 30px;
+    font-weight: 800;
+    background-color: 0 0 25px pink !important;
+    
+}
+.card-body{
+    border: black solid 5px;
+    
+}
+
+.card-footer{
+    border: black solid 5px;
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+
+.btn{
+    border: black solid 3px;
+}

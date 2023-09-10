@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="NEW.css">
+    <title>New Patient</title>
+</head>
+<body>
+    <div class="main">
+        <div class="inner">
+            <h1 class="title">Add New Patient</h1>
+            <div class="form">
+                <form action="/predict" method="POST">
+                    <div class="name">
+                        <label for="name"><span class="name_pat">Name of Patient:</span></label>
+                        <input  type="text" id="name" name="pat[name]" required class="name-input">
+                    </div>
+
+                    <div class="age">
+                        <label for="age"><span class="age_pat">Age of Patient:</span></label>
+                        <input  type="text" id="age" name="pat[age]" required class="age-input">
+                    </div>
+
+                    <div class="gender">
+                        <label for="gender"><span class="gender_pat">Gender of Patient:</label>
+                        <input  type="text" id="gender" name="pat[gender]" required class="gender-input">
+                    </div>
+
+                    <div class="file">
+                        <label for="file"><span class="file_pat">Your recorded File:</span></label>
+                        <input  type="text" id="file" name="pat[file]" required class="file-input">
+                    </div>
+                    <button class="add">Add Patient</button>
+
+                </form>
+            </div>
+        </div>    
+    </div>
+</body>
+</html>

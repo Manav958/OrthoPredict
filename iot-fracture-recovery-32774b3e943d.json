@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "iot-fracture-recovery",
+  "private_key_id": "32774b3e943d7aa5ed10ff3966a0dde9f9c83f0b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCzW8oJqoxzbek/\nXtUXXSsdp8LeyyRIzp5FYMP5v+oq2pJMhjMejHyH3Ee3c1h6x+ZdE7HXAIYaqsld\nH0k7nbzsweTDFFnnCctEAyl34f6CgeigdOSoFwvTeaULmwrAEuaTTmcU58TONfqO\n8rIvukPAd6JkVKr2fk/PbsunUxWi8yBu+ElSllVOE7VNOETBOBmCOABTClmgOw2p\nUN2tepmrugPwASk51ot3QQSGOZ6Kz4OQ3rzqAhhGfmelPelaNtbGbMk/k1p6rT3o\nMWUgWoP+G/629H0J+a5p3nrPcNnhQ+piFEaHbt8ss08IfnmB8s8QOBM30dqYXHqV\nz9cC+9oPAgMBAAECggEAJA7eid3zOZuNqnNOxNEyw1YAS9ksNMTxNcJz88hc8/uY\nMPFD4q7ctFWZR2zVi22XxvuYI8DTtRXDwMhy6RzXqAN9EakMP/IMnuJB2nuhNqyW\nT3fgplhnxL6uayxi12WVXGUFPUMxIkHg2w84unaoe0+x4pjQ/Bg9xFaic8O01FrU\nYyq3avIebbpYQhIQNxZkAV2fVoA3HwVTCkYry6ZoOOe3/KFDld65adaxejmjNmJx\nxyuVr8laYo3lhmtKYZeubxx6km1mcHyuA6edWvZmE1DVV8LdXilOOK5s17zrAZiS\nThaiiKPJcx3yg5rfZxIexvWhA4LM8he47jCaKIABfQKBgQD6eSgGRilQiJ+hpjSa\nPNgEvS65cc+rZ3vGDuVfu5yI/92dxeD42AxiuDv6oPl7rtxF1/vXdxt5tWpfg2Z0\ncrbKPpnwyQn9i2xUBApioRX8FIHVON8HrK8123gMAsqDHQXgNmAwwOR9II2KXON3\netDOMJHqukGCxeSKUdqybIOsxQKBgQC3UO2yXCCD9A+JV3E09m/lNbLZJ/uH2kAb\n8Su2Lb8shKb/cOoBFjXuj9J3Rz5XETHtyPKoI9Rmg1D7bbWr+KBjwYDWcbL0nfm9\n08K7N3gKAvrD1Tktke7hUrVT7yv7xBDi5kp7ChUt8qDTW8AZgpcyzCcikkKpqdPQ\nF1EHxWZAwwKBgDXN3NksLSfNkWzqBRa0xzqNYQIY/qE1Q5NSE9eyt3d+bx67KQ6L\nam2yYb/+4Fi/QTYHpWOthEtquwT1dwbAtZ9QP0VICktardSGYay6KbzSsukYpGBD\nqgeJs4nw94ueqmp1g8g1R1/RpFX6iipaSYxhRpcDl5r945AK8U2uncJ5AoGAddXI\npUEBCbEFl6QkugW7UZwd9eb0kZQiZ5O0JGvtmmE+s65STRaI3muGv3OFSBRegtoL\n2TcG3kqE8MnJ4Nx1xQnqlm4JuaIemf4YC54RRGY76UwTcA6BfkdbFbQFEtYqgJ/F\nuqd1i86NwK8WoY9HP7jpYxifT05CQF3skVE7dF8CgYBmGeR2lixSO69u9/8PhYYX\ngOumCsQxI8tM9agPRd8G8qE++deVd3ff2J9nUaAen9fg4c9gGcbWtD1E+XCoGMLW\ncfG23eZN623kD4Uu7EqlsTwKI+w0awM+ys42XwugZ8vXMmrpWapXrSfQZzs3rO3N\nYskd7JJwH74FzACOQEi7Kg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "iot-model@iot-fracture-recovery.iam.gserviceaccount.com",
+  "client_id": "109850685323939699616",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/iot-model%40iot-fracture-recovery.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

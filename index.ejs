@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css"
+        integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I" crossorigin="anonymous">
+    <link rel="stylesheet" href="INDEX.css">
+</head>
+<body>
+<h1>ALL PATIENTS</h1>
+<div class="main">
+<% for (let p of pat ) {%>
+    <div class="card text-center ml-5 mr-5 mb-5  " >
+        <div class="card-header ">
+          Patient
+        </div>
+        <div class="card-body">
+            <h5 class="card-title"><%=p.name%></h5>
+            <p class="card-text">Age: <%=p.age%></p>
+            <p class="card-text">Gender: <%=p.gender%></p>
+            <p class="card-text">File: <%=p.file%></p>
+
+            <a href="/patient_recover" class="btn btn-primary">Predict</a>
+            <form action="/predict/<%=p._id%>?_method=DELETE" method="POST">
+                <button class="btn btn-danger">Delete</button>
+            </form>
+        </div>
+        <div class="card-footer text-muted">
+          2 days ago
+        </div>
+    </div>
+       
+
+<% } %>
+    
+</body>
+</html>
+
+
+

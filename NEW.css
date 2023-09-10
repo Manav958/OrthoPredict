@@ -1,0 +1,175 @@
+body{
+    background-color: black;
+    align-items: center;
+}
+.main{
+    
+    box-shadow: 0 0 25px pink;
+    background-color: rgba(115,38,219,255);
+    padding-bottom: -90px;
+    
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    background-image: url('https://media.istockphoto.com/id/1355428974/vector/sugar-bones-for-dogs-sample.jpg?s=612x612&w=0&k=20&c=IR6YNyRN-A9R48Gt-vIuGAiSfywVjlfouJNsGmDAccQ=');
+    background-color: rgba(61, 0, 141, 255); /* Using rgba with an alpha value for transparency */
+    background-blend-mode: multiply;
+    
+}
+
+
+
+
+
+.title{
+    text-shadow: 0 0 15px pink;
+    padding-top: 40px;
+    font-size: 50px;
+    font-weight: 900;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.name{
+    justify-content: center;
+    margin-left: 450px;
+    margin-bottom: 100px;
+}
+
+.name-input{
+    padding-left: 50px;
+    padding-right: 100px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-bottom: 2px;
+    transform: translateY(-5px);
+    border-width: 5px;
+    border-radius: 15px;
+    border-color: black;
+    box-shadow: 0 0 15px pink;
+    margin-left: 80px;
+
+}
+
+.name_pat{
+    font-size: 30px;
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 15px;
+    text-shadow:0 0 15px pink ;
+}
+
+
+.age{
+    justify-content: center;
+    margin-left: 450px;
+    margin-bottom: 100px;
+}
+
+.age-input{
+    padding-left: 50px;
+    padding-right: 100px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-bottom: 2px;
+    transform: translateY(-5px);
+    border-width: 5px;
+    border-radius: 15px;
+    border-color: black;
+    box-shadow: 0 0 15px pink;
+    margin-left: 110px;
+
+}
+
+.age_pat{
+    font-size: 30px;
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 15px;
+    text-shadow:0 0 15px pink ;
+}
+
+.gender{
+    justify-content: center;
+    margin-left: 450px;
+    margin-bottom: 100px;
+}
+
+.gender-input{
+    padding-left: 50px;
+    padding-right: 100px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-bottom: 2px;
+    transform: translateY(-5px);
+    border-width: 5px;
+    border-radius: 15px;
+    border-color: black;
+    box-shadow: 0 0 15px pink;
+    margin-left: 50px;
+
+}
+
+.gender_pat{
+    font-size: 30px;
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 15px;
+    text-shadow:0 0 15px pink ;
+}
+
+.file{
+    justify-content: center;
+    margin-left: 450px;
+    margin-bottom: 100px;
+}
+
+.file-input{
+    padding-left: 50px;
+    padding-right: 100px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-bottom: 2px;
+    transform: translateY(-5px);
+    border-width: 5px;
+    border-radius: 15px;
+    border-color: black;
+    box-shadow: 0 0 15px pink;
+    margin-left: 40px;
+    
+
+}
+
+.file_pat{
+    font-size: 30px;
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 15px;
+    text-shadow:0 0 15px pink ;
+}
+
+.add{
+    background-color: black;
+    color: antiquewhite;
+    font-size: 15px;
+    font-weight: 700;
+    margin-left: 700px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-width: 4px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    transition: all 1s;
+    box-shadow: 0 0 15px pink;
+    transform: translateY(-90px);
+}
